@@ -328,6 +328,7 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [1292](../codes/climate/1292.json) | AR-RY12 (Remote control) - <b>vertical and horizontal swing support</b> | Broadlink   |
 | [1293](../codes/climate/1293.json) | AR-REB1E (Remote control) - <b>vertical swing support</b>               | Broadlink   |
 | [1294](../codes/climate/1294.json) | AR-RY4 (Remote control)                                                 | Broadlink   |
+| [2970](../codes/climate/2970.json) | AR-JE8 (Remote control)                                                 | ESPhome     |
 
 #### Sharp
 | Code                               | Supported Models | Controller |
